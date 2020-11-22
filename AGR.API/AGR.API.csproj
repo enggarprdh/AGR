@@ -177,10 +177,6 @@
     <Folder Include="Views\Example\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AGR.Module.User\AGR.Module.User.csproj">
-      <Project>{4145bdf9-c961-4b56-b946-ed6446eb0340}</Project>
-      <Name>AGR.Module.User</Name>
-    </ProjectReference>
     <ProjectReference Include="..\BasicAuthentication\BasicAuthentication.csproj">
       <Project>{6ab725b6-fe77-45c4-8b96-6be852b7fe71}</Project>
       <Name>BasicAuthentication</Name>
