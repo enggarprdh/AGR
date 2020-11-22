@@ -21,6 +21,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{3360
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityNET", "IdentityNET\IdentityNET.csproj", "{CE503345-8A7F-4909-B5A9-A719BC8EC334}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AGR.Module.User", "AGR.Module.User\AGR.Module.User.csproj", "{5D922F77-4A1A-4801-B980-262C2A350677}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{CE503345-8A7F-4909-B5A9-A719BC8EC334}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE503345-8A7F-4909-B5A9-A719BC8EC334}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE503345-8A7F-4909-B5A9-A719BC8EC334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D922F77-4A1A-4801-B980-262C2A350677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D922F77-4A1A-4801-B980-262C2A350677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D922F77-4A1A-4801-B980-262C2A350677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D922F77-4A1A-4801-B980-262C2A350677}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,6 +56,7 @@ Global
 		{BA620E20-98D5-40FD-A844-9FA3541E3AA7} = {9484E4E4-B08D-46F7-AFB3-1E122250FA1A}
 		{33605475-0A59-4E14-9853-8FE0EC7EFD78} = {9CBD8EC6-07DE-442E-B67B-B34313719495}
 		{CE503345-8A7F-4909-B5A9-A719BC8EC334} = {E8A94562-356A-4A85-A16C-5C5EBDE890C2}
+		{5D922F77-4A1A-4801-B980-262C2A350677} = {33605475-0A59-4E14-9853-8FE0EC7EFD78}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B4416A15-38D0-478C-B605-8913FC713906}
